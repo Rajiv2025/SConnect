@@ -1,0 +1,15 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rajiv",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "ws": "^7.3.0"
+  }
+}
